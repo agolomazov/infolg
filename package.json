@@ -7,7 +7,7 @@
     "build": "webpack --mode production"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anton Golomazov",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.9.6",
