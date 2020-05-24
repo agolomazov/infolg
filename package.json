@@ -6,7 +6,13 @@
   "scripts": {
     "build": "webpack --mode production"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agolomazov/infolg.git"
+  },
+  "keywords": [
+    "testing package"
+  ],
   "author": "Anton Golomazov",
   "license": "ISC",
   "devDependencies": {
